@@ -3,7 +3,7 @@ function Article({title, date, preview}){
         <>
         <article>
             <h3>
-             name :{title}
+             {title}
             </h3>
 
             <small>

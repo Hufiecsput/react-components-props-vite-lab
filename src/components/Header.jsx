@@ -1,9 +1,8 @@
 
 function Header ({name}) {
 return (
-       <> 
-   
-    <h1>name: {name}</h1>
+    <> 
+    <h1>name :{name}</h1>
    </>
 
 );
